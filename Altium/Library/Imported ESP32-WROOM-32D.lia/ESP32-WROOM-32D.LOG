@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : ESP32-WROOM-32D.LibPkg
+
+Section : C:\Users\Cooper Richmond\Desktop\DRC2019\DRC2019-Hardware\Altium\Library\ESP32-WROOM-32D.lia
+    Section : PCB Library - ESP32-WROOM-32D.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 174
+            Warning - 1 : Skipping Token isVisible On Line 185
+            Warning - 1 : Skipping Token ESP32-WROOM-32D On Line 190
+            Warning - 1 : Skipping Token attachedSymbol On Line 597
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ESP32-WROOM-32D.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 147
+            Warning - 1 : Skipping Token layerContents On Line 158
+            Warning - 1 : Skipping Token layerContents On Line 166
+            Warning - 1 : Skipping Token layerContents On Line 177
+        EndSection
+
+        Section : Generating SCH Library - ESP32-WROOM-32D.SchLib
+        EndSection
+    EndSection
+EndSection

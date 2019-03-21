@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : FT230XS.LibPkg
+
+Section : C:\Users\Cooper Richmond\Desktop\DRC2019\DRC2019-Hardware\Altium\Library\FT230XS.lia
+    Section : PCB Library - FT230XS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FT230XS On Line 311
+            Warning - 1 : Skipping Token attachedSymbol On Line 498
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - FT230XS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 209
+        EndSection
+
+        Section : Generating SCH Library - FT230XS.SchLib
+        EndSection
+    EndSection
+EndSection
