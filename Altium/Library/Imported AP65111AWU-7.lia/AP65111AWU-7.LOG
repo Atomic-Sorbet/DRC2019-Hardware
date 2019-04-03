@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : AP65111AWU-7.LibPkg
+
+Section : C:\Users\n10208577\Desktop\DRC2019-Hardware\Altium\Library\AP65111AWU-7.lia
+    Section : PCB Library - AP65111AWU-7.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token AP65111AWU-7 On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 206
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AP65111AWU-7.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 114
+        EndSection
+
+        Section : Generating SCH Library - AP65111AWU-7.SchLib
+        EndSection
+    EndSection
+EndSection
