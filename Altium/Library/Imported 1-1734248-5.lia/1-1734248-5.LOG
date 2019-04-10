@@ -1,0 +1,61 @@
+PCAD Importer Log
+Project : 1-1734248-5.LibPkg
+
+Section : C:\DRC2019\DRC2019-Hardware\Altium\Library\1-1734248-5.lia
+    Section : PCB Library - 1-1734248-5.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1-1734248-5 On Line 179
+            Warning - 1 : Skipping Token attachedSymbol On Line 509
+            Warning - 1 : Skipping Token 1 On Line 516
+            Warning - 1 : Skipping Token 1 On Line 526
+            Warning - 1 : Skipping Token 1 On Line 528
+            Warning - 1 : Skipping Token 1 On Line 530
+            Warning - 1 : Skipping Token 1 On Line 532
+            Warning - 1 : Skipping Token 1 On Line 534
+            Warning - 1 : Skipping Token 1 On Line 536
+            Warning - 1 : Skipping Token 1 On Line 538
+            Warning - 1 : Skipping Token 1 On Line 540
+            Warning - 1 : Skipping Token 1 On Line 542
+            Warning - 1 : Skipping Token 1 On Line 544
+            Warning - 1 : Skipping Token 1 On Line 546
+            Warning - 1 : Skipping Token 1 On Line 566
+            Warning - 1 : Skipping Token 1 On Line 568
+            Warning - 1 : Skipping Token 1 On Line 570
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TE_1-1734248-5][Primary] associated with PCAD Component [1-1734248-5] has been renamed to PCB FootPrint [*TE_1-1734248-5_1-1734248-5(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1-1734248-5.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 168
+            Warning - 1 : Skipping Token 1 On Line 516
+            Warning - 1 : Skipping Token 1 On Line 526
+            Warning - 1 : Skipping Token 1 On Line 528
+            Warning - 1 : Skipping Token 1 On Line 530
+            Warning - 1 : Skipping Token 1 On Line 532
+            Warning - 1 : Skipping Token 1 On Line 534
+            Warning - 1 : Skipping Token 1 On Line 536
+            Warning - 1 : Skipping Token 1 On Line 538
+            Warning - 1 : Skipping Token 1 On Line 540
+            Warning - 1 : Skipping Token 1 On Line 542
+            Warning - 1 : Skipping Token 1 On Line 544
+            Warning - 1 : Skipping Token 1 On Line 546
+            Warning - 1 : Skipping Token 1 On Line 566
+            Warning - 1 : Skipping Token 1 On Line 568
+            Warning - 1 : Skipping Token 1 On Line 570
+        EndSection
+
+        Section : Generating SCH Library - 1-1734248-5.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TE_1-1734248-5][Primary] associated with PCAD Component [1-1734248-5] has been renamed to PCB FootPrint [*TE_1-1734248-5_1-1734248-5(Primary)].
+        EndSection
+    EndSection
+EndSection
