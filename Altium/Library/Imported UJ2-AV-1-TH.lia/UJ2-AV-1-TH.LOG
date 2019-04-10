@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : UJ2-AV-1-TH.LibPkg
+
+Section : C:\Users\n10208577\Desktop\DRC2019-Hardware\Altium\Library\UJ2-AV-1-TH.lia
+    Section : PCB Library - UJ2-AV-1-TH.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token UJ2-AV-1-TH On Line 153
+            Warning - 1 : Skipping Token attachedSymbol On Line 241
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*CUI_UJ2-AV-1-TH][Primary] associated with PCAD Component [UJ2-AV-1-TH] has been renamed to PCB FootPrint [*CUI_UJ2-AV-1-TH_UJ2-AV-1-TH(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - UJ2-AV-1-TH.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 144
+        EndSection
+
+        Section : Generating SCH Library - UJ2-AV-1-TH.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*CUI_UJ2-AV-1-TH][Primary] associated with PCAD Component [UJ2-AV-1-TH] has been renamed to PCB FootPrint [*CUI_UJ2-AV-1-TH_UJ2-AV-1-TH(Primary)].
+        EndSection
+    EndSection
+EndSection
