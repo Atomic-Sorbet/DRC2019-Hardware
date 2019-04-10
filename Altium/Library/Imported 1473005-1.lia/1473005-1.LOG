@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : 1473005-1.LibPkg
+
+Section : C:\DRC2019\DRC2019-Hardware\Altium\Library\1473005-1.lia
+    Section : PCB Library - 1473005-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1473005-1_SECTION1 On Line 389
+            Warning - 1 : Skipping Token 1473005-1_SECTION2 On Line 1311
+            Warning - 1 : Skipping Token attachedSymbol On Line 2463
+            Warning - 1 : Skipping Token attachedSymbol On Line 2464
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1473005-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 32
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 324
+            Warning - 1 : Skipping Token layerContents On Line 337
+            Warning - 1 : Skipping Token layerContents On Line 353
+            Warning - 1 : Skipping Token layerContents On Line 369
+        EndSection
+
+        Section : Generating SCH Library - 1473005-1.SchLib
+        EndSection
+    EndSection
+EndSection
