@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=HDMI_D0_P Pin=CR1-1
+Removed Pin From Net: NetName=HDMI_D0_N Pin=CR1-6
+Removed Pin From Net: NetName=HDMI_D2_P Pin=CR2-1
+Removed Pin From Net: NetName=HDMI_D2_N Pin=CR2-6
+Added Pin To Net: NetName=HDMI_D2_P Pin=CR1-1
+Added Pin To Net: NetName=HDMI_D2_N Pin=CR1-6
+Added Pin To Net: NetName=HDMI_D0_P Pin=CR2-1
+Added Pin To Net: NetName=HDMI_D0_N Pin=CR2-6
+Added Room: Name=RaspberryPi
