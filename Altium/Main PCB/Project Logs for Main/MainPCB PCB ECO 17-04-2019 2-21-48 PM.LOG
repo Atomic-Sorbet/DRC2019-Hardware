@@ -1,0 +1,27 @@
+Added Component: Designator=U1(ESP32-WROOM-32D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-WROOM-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Module Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif%20Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_OTGID Pin=U1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-2
+Added Pin To Net: NetName=ESP_EN Pin=U1-3
+Added Pin To Net: NetName=SERVO_STEER Pin=U1-10
+Added Pin To Net: NetName=SERVO_ESC Pin=U1-11
+Added Pin To Net: NetName=PWR_KILL Pin=U1-13
+Added Pin To Net: NetName=USB_OTGID Pin=U1-15
+Added Pin To Net: NetName=PWR_INT Pin=U1-16
+Added Pin To Net: NetName=ESP_BOOT Pin=U1-25
+Added Pin To Net: NetName=GPIO14 Pin=U1-27
+Added Pin To Net: NetName=GPIO15 Pin=U1-28
+Added Pin To Net: NetName=LED_0 Pin=U1-30
+Added Pin To Net: NetName=LED_1 Pin=U1-31
+Added Pin To Net: NetName=PROG_RX Pin=U1-34
+Added Pin To Net: NetName=PROG_TX Pin=U1-35
+Added Pin To Net: NetName=USB_OTGID Pin=U1-38
+Added Pin To Net: NetName=USB_OTGID Pin=U1-39
+Added Member To Class: ClassName=ESP32 Member=Component U1 ESP32-WROOM-32D
