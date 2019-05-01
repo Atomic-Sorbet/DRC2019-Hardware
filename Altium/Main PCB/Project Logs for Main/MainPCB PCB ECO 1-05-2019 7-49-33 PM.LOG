@@ -1,0 +1,16 @@
+Added Component: Designator=J4(PINHEAD_2.00mm_1x2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW3(TACTILE_BUTTOn)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SYS_IN Pin=J4-2
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_2 Pin=U3-2
+Added Net: Name=NetSW3_2
+Added Pin To Net: NetName=VCC_MTR_SW Pin=J4-1
+Added Net: Name=VCC_MTR_SW
+Added Member To Class: ClassName=PowerSupply Member=Component J4 HDR_1x2
+Added Member To Class: ClassName=PowerSupply Member=Component SW3 TACTILE_BUTTON
+Added Room: Name=PowerSupply

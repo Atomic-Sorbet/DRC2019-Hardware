@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Member From Class: ClassName=RaspberryPi Member=C16
+Removed Member From Class: ClassName=RaspberryPi Member=C18
+Change Component Description : Designator=J8 Old Description=Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0 New Description=
+Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0
+

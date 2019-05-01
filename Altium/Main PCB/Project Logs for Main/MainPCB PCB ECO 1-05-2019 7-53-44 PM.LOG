@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C12 Old Footprint=CASE-A New Footprint=C0603
+Change Component Comment : Designator=C12 Old Comment=CAP-P New Comment=CAP
+Added Room: Name=PowerSupply
