@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=CAM1_DN0 Pin=J6-2_1
+Removed Pin From Net: NetName=CAM1_DN0 Pin=J6-2
+Removed Pin From Net: NetName=CAM1_DP0 Pin=J6-3_1
+Removed Pin From Net: NetName=CAM1_DP0 Pin=J6-3
+Removed Pin From Net: NetName=CAM1_DN1 Pin=J6-5_1
+Removed Pin From Net: NetName=CAM1_DN1 Pin=J6-5
+Removed Pin From Net: NetName=CAM1_DP1 Pin=J6-6_1
+Removed Pin From Net: NetName=CAM1_DP1 Pin=J6-6
+Removed Pin From Net: NetName=CAM1_CN Pin=J6-8_1
+Removed Pin From Net: NetName=CAM1_CN Pin=J6-8
+Removed Pin From Net: NetName=CAM1_CP Pin=J6-9_1
+Removed Pin From Net: NetName=CAM1_CP Pin=J6-9
+Change Component Description : Designator=J8 Old Description=Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0 New Description=
+Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0
+
+Added Pin To Net: NetName=CAM1_C_N Pin=J6-8
+Added Pin To Net: NetName=CAM1_C_N Pin=J6-8_1
+Added Net: Name=CAM1_C_N
+Added Pin To Net: NetName=CAM1_C_P Pin=J6-9
+Added Pin To Net: NetName=CAM1_C_P Pin=J6-9_1
+Added Net: Name=CAM1_C_P
+Added Pin To Net: NetName=CAM1_D0_N Pin=J6-2
+Added Pin To Net: NetName=CAM1_D0_N Pin=J6-2_1
+Added Net: Name=CAM1_D0_N
+Added Pin To Net: NetName=CAM1_D0_P Pin=J6-3
+Added Pin To Net: NetName=CAM1_D0_P Pin=J6-3_1
+Added Net: Name=CAM1_D0_P
+Added Pin To Net: NetName=CAM1_D1_N Pin=J6-5
+Added Pin To Net: NetName=CAM1_D1_N Pin=J6-5_1
+Added Net: Name=CAM1_D1_N
+Added Pin To Net: NetName=CAM1_D1_P Pin=J6-6
+Added Pin To Net: NetName=CAM1_D1_P Pin=J6-6_1
+Added Net: Name=CAM1_D1_P
+Added Differential Pair: Name=CAM1_C
+Added Differential Pair: Name=CAM1_D0
+Added Differential Pair: Name=CAM1_D1
+Added Class: Name=DIFF

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=CR? NewDesignator=CR4
+Change Component Description : Designator=J8 Old Description=Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0 New Description=
+Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0
+
+Added Room: Name=ESP32
+Added Room: Name=PowerSupply
+Added Room: Name=RaspberryPi
