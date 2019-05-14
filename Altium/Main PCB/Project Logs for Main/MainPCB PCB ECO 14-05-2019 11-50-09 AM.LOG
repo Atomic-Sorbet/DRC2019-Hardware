@@ -1,0 +1,38 @@
+Change Component Description : Designator=J8 Old Description=Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0 New Description=
+Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0
+
+Change component parameters: Designator = "C5"; Footprint = "C0603"; UniqueID = "\SGPNAIWG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "PA4332.XXXNLT"; UniqueID = "\PJMFTWWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "PA4332.682NLT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2"; Footprint = "PA4332.XXXNLT"; UniqueID = "\SNEBZZNL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "PA4332.682NLT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "6.8uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3"; Footprint = "PA4332.XXXNLT"; UniqueID = "\QYVJBTAT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "PA4332.332NLT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uH"; VariantName = "[No Variations]"
+Added Component: Designator=CR?(SOT23-6L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=J10(PINHEAD_2.00mm_1x2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=USB_DN Pin=CR?-1
+Added Pin To Net: NetName=GND Pin=CR?-2
+Added Pin To Net: NetName=USB_DP Pin=CR?-3
+Added Pin To Net: NetName=VCC_5V Pin=CR?-5
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J10-1
+Added Net: Name=NetJ4_1
+Added Member To Class: ClassName=RaspberryPi Member=Component CR? HDMIULC6-4SC6
+Added Member To Class: ClassName=PowerSupply Member=Component J10 HDR_1x2
