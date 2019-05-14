@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PWR_KILL Pin=U1-13
+Removed Pin From Net: NetName=PWR_INT Pin=U1-16
+Change Component Description : Designator=J5 Old Description=CONN SKT SODIMM 200POS R/A SMD 
+ New Description=CONN SKT SODIMM 200POS R/A SMD
+Added Pin To Net: NetName=PWR_KILL Pin=U1-31
+Added Pin To Net: NetName=PWR_INT Pin=U1-33
+Added Pin To Net: NetName=LED0 Pin=LED2-A
+Added Pin To Net: NetName=LED0 Pin=U1-29
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=LED1-A
+Added Pin To Net: NetName=LED1 Pin=U1-30
+Added Net: Name=LED1
+Added Room: Name=ESP32
+Added Room: Name=PowerSupply
+Added Room: Name=RaspberryPi

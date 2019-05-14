@@ -1,0 +1,11 @@
+Added Differential Pair: Name=HDMI_CLK
+Added Differential Pair: Name=HDMI_D0
+Added Differential Pair: Name=HDMI_D1
+Added Differential Pair: Name=HDMI_D2
+Added Room: Name=ESP32
+Added Room: Name=PowerSupply
+Added Room: Name=RaspberryPi
+Added Member To Class: ClassName=DIFF Member=HDMI_CLK
+Added Member To Class: ClassName=DIFF Member=HDMI_D0
+Added Member To Class: ClassName=DIFF Member=HDMI_D1
+Added Member To Class: ClassName=DIFF Member=HDMI_D2

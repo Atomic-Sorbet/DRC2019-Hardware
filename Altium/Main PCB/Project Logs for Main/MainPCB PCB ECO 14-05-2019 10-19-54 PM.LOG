@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=J6-1_1
+Removed Pin From Net: NetName=CAM1_D0_N Pin=J6-2_1
+Removed Pin From Net: NetName=CAM1_D0_P Pin=J6-3_1
+Removed Pin From Net: NetName=GND Pin=J6-4_1
+Removed Pin From Net: NetName=CAM1_D1_N Pin=J6-5_1
+Removed Pin From Net: NetName=CAM1_D1_P Pin=J6-6_1
+Removed Pin From Net: NetName=GND Pin=J6-7_1
+Removed Pin From Net: NetName=CAM1_C_N Pin=J6-8_1
+Removed Pin From Net: NetName=CAM1_C_P Pin=J6-9_1
+Removed Pin From Net: NetName=GND Pin=J6-10_1
+Removed Pin From Net: NetName=CAM_GPIO0 Pin=J6-11_1
+Removed Pin From Net: NetName=CAM_GPIO0 Pin=J6-11
+Removed Pin From Net: NetName=CAM_GPIO1 Pin=J6-12_1
+Removed Pin From Net: NetName=CAM_GPIO1 Pin=J6-12
+Removed Pin From Net: NetName=GPIO1 Pin=J6-13_1
+Removed Pin From Net: NetName=GPIO1 Pin=J6-13
+Removed Pin From Net: NetName=GPIO0 Pin=J6-14_1
+Removed Pin From Net: NetName=GPIO0 Pin=J6-14
+Removed Pin From Net: NetName=VCC_3V3 Pin=J6-15_1
+Removed Pin From Net: NetName=VCC_3V3 Pin=J6-15
+Change Component Footprint: Designator=J6 Old Footprint=1-1734248-5 New Footprint=5019512210
+Change Component Comment : Designator=J6 Old Comment=1-1734248-5 New Comment=5019512210
+Change component parameters: Designator = "J6"; Footprint = "5019512210"; UniqueID = "\KXPQJEOU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "5019512210"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-13
+Added Pin To Net: NetName=GND Pin=J6-16
+Added Pin To Net: NetName=CAM_GPIO0 Pin=J6-17
+Added Pin To Net: NetName=CAM_GPIO1 Pin=J6-18
+Added Pin To Net: NetName=GND Pin=J6-19
+Added Pin To Net: NetName=GPIO1 Pin=J6-20
+Added Pin To Net: NetName=GPIO0 Pin=J6-21
+Added Pin To Net: NetName=VCC_3V3 Pin=J6-22
+Added Pin To Net: NetName=CAM1_D2_N Pin=J5-143
+Added Pin To Net: NetName=CAM1_D2_N Pin=J6-11
+Added Net: Name=CAM1_D2_N
+Added Pin To Net: NetName=CAM1_D2_P Pin=J5-141
+Added Pin To Net: NetName=CAM1_D2_P Pin=J6-12
+Added Net: Name=CAM1_D2_P
+Added Pin To Net: NetName=CAM1_D3_N Pin=J5-137
+Added Pin To Net: NetName=CAM1_D3_N Pin=J6-14
+Added Net: Name=CAM1_D3_N
+Added Pin To Net: NetName=CAM1_D3_P Pin=J5-135
+Added Pin To Net: NetName=CAM1_D3_P Pin=J6-15
+Added Net: Name=CAM1_D3_P
+Added Differential Pair: Name=CAM1_D2
+Added Differential Pair: Name=CAM1_D3
+Added Member To Class: ClassName=DIFF Member=CAM1_D2
+Added Member To Class: ClassName=DIFF Member=CAM1_D3
