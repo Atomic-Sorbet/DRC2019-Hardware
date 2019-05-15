@@ -1,0 +1,129 @@
+Change Component Comment : Designator=Q2 Old Comment=#NAME? New Comment=DMG3414U-7
+Change Component Comment : Designator=Q1 Old Comment=#NAME? New Comment=DMP2305U-7
+Change Component Description : Designator=J6 Old Description==Description New Description=FFC 22 POS VERT
+Change Component Description : Designator=Q2 Old Description==Description New Description=N Channel MOSFET, SOT23
+Change Component Description : Designator=Q1 Old Description==Description New Description=P Channel MOSFET, SOT23
+Change Component Description : Designator=J5 Old Description=CONN SKT SODIMM 200POS R/A SMD New Description=CONN SKT SODIMM 200POS R/A SMD DDR2
+Change component parameters: Designator = "J7"; Footprint = "10029449-111RLF"; UniqueID = "\XSKRZLKL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "10029449-111RLF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8"; Footprint = "UJ2-AV-1-TH"; UniqueID = "\IIBIVPDJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cui.com/product/interconnect/usb-connectors/type-a/uj2-av-th-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "102-3995-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/cui-inc/UJ2-AV-1-TH/102-3995-ND/6187910?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "UJ2-AV-1-TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "UJ2-AV-1-TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UJ2-AV-1-TH/CUI%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11"; Footprint = "USD_DM3CS"; UniqueID = "\XFRFOSIF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "DM3C-SF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1"; Footprint = "0603-LED"; UniqueID = "\UQBAINHL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "150060RS75000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2"; Footprint = "0603-LED"; UniqueID = "\AGKTGEBI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "150060RS75000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1"; Footprint = "SOT23-3"; UniqueID = "\SGWRFDKG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "DMP2305U-7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2"; Footprint = "SOT23-3"; UniqueID = "\RROBWQZT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "DMG3414U-7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "ESP32-WROOM-32D"; UniqueID = "\CEPPKKFG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP32-WROOM-32D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Module Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "ESP-WROOM-32D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif%20Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "SOT95P280X100-6N"; UniqueID = "\YSGUHZJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "AP65111AWU-7DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/diodes-incorporated/AP65111AWU-7/AP65111AWU-7DICT-ND/7652826?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AP65111AWU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSOT-23-6 Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "AP65111AWU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AP65111AWU-7/Diodes%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "SOT95P280X100-6N"; UniqueID = "\NSQMVTMI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "AP65111AWU-7DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/diodes-incorporated/AP65111AWU-7/AP65111AWU-7DICT-ND/7652826?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AP65111AWU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSOT-23-6 Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "AP65111AWU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AP65111AWU-7/Diodes%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5"; Footprint = "SOT95P280X100-6N"; UniqueID = "\MXKKOFGS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "AP65111AWU-7DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/diodes-incorporated/AP65111AWU-7/AP65111AWU-7DICT-ND/7652826?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AP65111AWU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSOT-23-6 Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "AP65111AWU-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AP65111AWU-7/Diodes%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0603"; UniqueID = "\LWGWIAEP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R0603"; UniqueID = "\HSHPJNMU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CR1"; Footprint = "SOT23-6L"; UniqueID = "\GBZZOLOD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CR2"; Footprint = "SOT23-6L"; UniqueID = "\HIPHIKHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CR3"; Footprint = "SOT23-6L"; UniqueID = "\IPXUTLNX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CR4"; Footprint = "SOT23-6L"; UniqueID = "\XYWLYJZO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "HDMIULC6-4SC6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "TSOT-23_TS8-M"; UniqueID = "\PKDDEMEO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "LTC2954CTS8-2#TRMPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LTC2954CTS8-2_TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5"; Footprint = "1473005-1"; UniqueID = "\NKLLJZLD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = ".6 mm[.024 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A99605-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/te-connectivity-amp-connectors/1473005-1/A99605-ND/1890691?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1473150-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Number"; Value = "1473150-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Socket"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1473005-1/TE%20Connectivity%20AMP%20Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1473005-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

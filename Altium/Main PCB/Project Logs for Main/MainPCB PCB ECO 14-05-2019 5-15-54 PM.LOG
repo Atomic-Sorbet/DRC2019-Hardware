@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PWR_KILL Pin=U1-13
+Removed Pin From Net: NetName=PWR_INT Pin=U1-16
+Change Component Description : Designator=J8 Old Description=Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0 New Description=
+Standard A Type 4 Pin Vertical 3 µin Plating Through Hole USB Jack 2.0
+
+Added Pin To Net: NetName=PWR_INT Pin=U1-31
+Added Pin To Net: NetName=PWR_KILL Pin=U1-33
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=U1-30
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=U1-29
+Added Net: Name=NetLED2_A
+Added Room: Name=ESP32
+Added Room: Name=PowerSupply
+Added Room: Name=RaspberryPi

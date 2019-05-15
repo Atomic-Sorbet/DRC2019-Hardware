@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWR_INT Pin=U1-31
+Removed Pin From Net: NetName=PWR_KILL Pin=U1-33
+Added Pin To Net: NetName=PWR_KILL Pin=U1-31
+Added Pin To Net: NetName=PWR_INT Pin=U1-33

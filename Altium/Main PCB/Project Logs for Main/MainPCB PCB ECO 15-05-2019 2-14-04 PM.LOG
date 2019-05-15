@@ -1,0 +1,5 @@
+Added Component: Designator=J11(PINHEAD_2.00mm_1x2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SYS_SW Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Member To Class: ClassName=PowerSupply Member=Component J11 HDR_1x2
